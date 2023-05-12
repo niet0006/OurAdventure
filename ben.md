@@ -12,4 +12,11 @@ IF you select me for this adventure, I will trill you with music and dance style
 
 Cheers,
 
-Ebenezer
+Ebenezer.
+
+Would you like to learn more about my friends adventure?
+
+Select one:
+
+[Carlos](carlos.md)
+[Jishnu](jishnu.md)
