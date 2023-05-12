@@ -11,3 +11,10 @@ IF  you select me for this adventure, I will show you all the wonders of my home
 Cheers,
 
 Jishnu 
+
+Would you like to learn more about my friends adventure?
+
+Select one:
+
+[Ben](ben.md)
+[Carlos](carlos.md)
